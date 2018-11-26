@@ -9,8 +9,8 @@
 <body>
     <h1>Welcome PHP</h1>
     <ul>
-        <li><a href="?page=about">About</a></li>
-        <li><a href="?page=gallery">Gallery</a></li>
+        <li><a href="/about">About</a></li>
+        <li><a href="/gallery">Gallery</a></li>
     </ul>
 </body>
 </html>
